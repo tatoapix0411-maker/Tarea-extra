@@ -1,0 +1,2 @@
+Unidad 2:
+Esta unidad abarca las proporsiciones y como trabajamos con estas en un lenguaje de programación. Me parecio intrigante aprender a como declarar una condicion en java script, se hace uso del if como lo que queremos que sea verdadero y else en caso de ser falso o no cumplirse. Tuve dificultad para la Actividad 1 y la extra debido a ser mi primera experiencia programando pero tras leer cuidadosamente las presentaciones brindadas por la galileo logré llegar al objetivo de aprendizaje1 al que estaba enfocada la unidad. 

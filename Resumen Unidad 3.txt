@@ -1,0 +1,2 @@
+Unidad 3:
+Durante la unidad vimos como los controladores de versiones son incrementadores de nuestra eficiencia al querer guardad nuestro progreso y colaborar en grupo. Me parecio interesante la manera en la que git funciona, siendo un controlador primordialmente basado en una interfaz de comandos. Este se enlaza directamente con github mediante comandos como push, commit y add. Tuve dificultad para enlazar mi git a github al ser un comando muy largo.

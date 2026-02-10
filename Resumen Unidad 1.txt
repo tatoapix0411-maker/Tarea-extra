@@ -1,0 +1,2 @@
+Unidad 1:
+Se da a entender en la unidad 1 la relevancia de los algoritmos para entender la logica del funcionamiento de una computadora. Son pasos que la maquina sigue al pie de la letra por lo que se debe escribir de manera adecuada las instrucciones paso por paso. Me parecio interesante la manera en la que se debe seguirse las reglas para poder comunicarte con la maquina mediante el lenguaje de programación a binario. No tuve mayor dificultades con esta actividad.
